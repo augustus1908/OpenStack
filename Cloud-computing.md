@@ -1,7 +1,7 @@
 ![alt](https://images.viblo.asia/19437976-01e2-4bf4-b57b-225a14849e0c.jpg)
 
 ## 1.Cloud Computing
-*** There is no cloud, it's just someone else's computer ***
+***There is no cloud, it's just someone else's computer***
 
 Cloud Computing đề cập đến việc thao tác, định cấu hình và truy cập tài nguyên phần cứng và phần mềm từ xa. Nó cung cấp khả năng lưu trữ dữ liệu trực tuyến, cơ sở hạ tầng và ứng dụng.
 
