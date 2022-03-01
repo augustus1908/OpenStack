@@ -25,3 +25,17 @@ Cloud Computing đề cập đến việc thao tác, định cấu hình và tru
   Ví dụ: Google Apps, Dropbox, Salesforce, Cisco WebEx ...
   
 ![alt](https://images.viblo.asia/b0797ff3-1d40-4bc4-9a93-d77299dea316.jpg)
+
+## 4.Ưu - nhược điểm của cloud computing
+Ưu điểm
+- Tính sẵn sàng cao
+- Cấp phát và quản lý tài nguyên linh hoạt
+- Chi phí hợp lý
+- Lưu trữ không giới hạn
+- Sao lưu và phục hồi dễ dàng
+- Dễ dàng truy cập mọi lúc mọi nơi
+- Triển khai ứng dụng nhanh chóng
+
+Nhược điểm
+- Khả năng độc lập về vấn đề kỹ thuật kém
+- Vấn đề an toàn dữ liệu
